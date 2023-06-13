@@ -20,7 +20,7 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/hadeer-hassan-h28393/" target="_blank"></a>
+<a href="https://www.linkedin.com/in/hadeer-hassan-h28393/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed Ezz-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:me7717180@gmail.com)](mailto:eng.hadeer2893@gmail.com)
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=00201000049875)
 
