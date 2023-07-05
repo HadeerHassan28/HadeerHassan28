@@ -14,7 +14,7 @@
 
 
 - 🏢 I graduated from ITI Internship - Front-end and mobile cross platform track.
-- 👨‍💻 Bachelor's degree Electronics and Communication Engineering, Department of CS 09/2011 - 07/2016, [Excellent with GPA 3.4 with Honor].
+- 👨‍💻 Bachelor's degree Electronics and Communication Engineering,AAST 09/2011 - 07/2016, [Excellent with GPA 3.4 with Honor].
 <!---⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.-->
 
 
