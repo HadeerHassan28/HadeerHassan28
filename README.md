@@ -34,7 +34,7 @@
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![React](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=React)
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular)
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)
+
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -44,6 +44,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<!--![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)-->
 
 
 
