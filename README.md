@@ -1,5 +1,5 @@
 
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="280" height="160" align="right">
+<!--  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="280" height="160" align="right">-->
 
 <h3 align="center">
   Welcome to Hadeer's profile!
